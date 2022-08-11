@@ -1,5 +1,6 @@
 ![This is an image](https://github.com/HendMohammed90/destini/blob/master/images/img3.png)
-![This is an image](https://github.com/HendMohammed90/destini/blob/master/images/img4.png)
+
+[comment]: <> (![This is an image]&#40;https://github.com/HendMohammed90/destini/blob/master/images/img4.png&#41;)
 
 
 # Destini 🤔
